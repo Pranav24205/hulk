@@ -132,7 +132,7 @@ def buildblock(size):
 
 def usage():
 
-	print '---------------------------------------------------'
+	print '(---------------------------------------------------')
 
 	print 'USAGE: python hulk.py <url>'
 
